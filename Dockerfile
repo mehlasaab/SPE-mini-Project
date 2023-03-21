@@ -1,4 +1,5 @@
 FROM openjdk:11
-COPY ./target/Calculator-Using-DevOps-1.0-SNAPSHOT-jar-with-dependencies.jar ./
+COPY ./target/SPE-mini-calculator-1.0-SNAPSHOT-jar-with-dependencies.jar ./
 WORKDIR ./
-CMD ["java", "-jar", "Calculator-Using-DevOps-1.0-SNAPSHOT-jar-with-dependencies.jar"]
+CMD ["java", "-jar", "SPE-mini-calculator-1.0-SNAPSHOT-jar-with-dependencies.jar"]
+

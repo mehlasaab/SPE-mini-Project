@@ -2,7 +2,7 @@
 - name: Deploy Docker Image to Container
   hosts: all
   vars:
-    ansible_python_interpreter: /usr/lib/python3
+    ansible_python_interpreter: /usr/bin/python3.10
   tasks:
     - name: Pull Docker Image
       docker_image:

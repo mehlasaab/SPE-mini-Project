@@ -1,1 +1,1 @@
-172.16.132.241 ansible_user=jasvin
+client1 ansible_host=localhost ansible_connection=ssh ansible_user=sanju ansible_sudo_pass=mehlasaab

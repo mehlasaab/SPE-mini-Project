@@ -31,7 +31,7 @@ public class Calculator {
                 "Enter 3 to find Power\n" +
                 "Enter 4 to find Natural Logarithm\n" +
                 "Enter any other input to Exit\n" +
-                "Enter your choice: "
+                "Please Enter your choice: "
             );
 
             int choice;
@@ -51,8 +51,7 @@ public class Calculator {
                     i_number1 = -1;
 
                     // Keep executing do-while loop till user enters a non-negative integer
-                    while (i_number1 < 0) {
-                        try {
+                    while (i_number1 < 0) {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
                             System.out.print("Enter a non-negative integer : ");
                             i_number1 = scanner.nextInt();
 

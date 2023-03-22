@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="CalculatorTest" time="1.187" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="CalculatorTest" time="1.113" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="17.0.3.1+2-LTS-6"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk-17/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/sanju/Documents/SPEmini"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/sanju/Documents/IIITB/SPE/SPEmini"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="path.separator" value=":"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="user.country" value="IN"/>
+    <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/sanju/Documents/SPEmini"/>
+    <property name="user.dir" value="/home/sanju/Documents/IIITB/SPE/SPEmini"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="17.0.3.1+2-LTS-6"/>
     <property name="os.arch" value="amd64"/>
@@ -30,7 +30,7 @@
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="5.19.0-32-generic"/>
+    <property name="os.version" value="5.19.0-35-generic"/>
     <property name="library.jansi.path" value="/opt/apache-maven-3.6.3/lib/jansi-native"/>
     <property name="user.home" value="/home/sanju"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
@@ -58,12 +58,12 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
-  <testcase classname="CalculatorTest" name="sqrootTrueNegative" time="1.171"/>
+  <testcase classname="CalculatorTest" name="sqrootTrueNegative" time="1.098"/>
   <testcase classname="CalculatorTest" name="logTruePositive" time="0.001"/>
   <testcase classname="CalculatorTest" name="logTrueNegative" time="0.002"/>
-  <testcase classname="CalculatorTest" name="factorialTruePositive" time="0.003"/>
-  <testcase classname="CalculatorTest" name="factorialTrueNegative" time="0.003"/>
-  <testcase classname="CalculatorTest" name="powerTruePositive" time="0.002"/>
-  <testcase classname="CalculatorTest" name="powerTrueNegative" time="0.002"/>
-  <testcase classname="CalculatorTest" name="sqrootTruePositive" time="0.003"/>
+  <testcase classname="CalculatorTest" name="factorialTruePositive" time="0.002"/>
+  <testcase classname="CalculatorTest" name="factorialTrueNegative" time="0.002"/>
+  <testcase classname="CalculatorTest" name="powerTruePositive" time="0.003"/>
+  <testcase classname="CalculatorTest" name="powerTrueNegative" time="0.003"/>
+  <testcase classname="CalculatorTest" name="sqrootTruePositive" time="0.002"/>
 </testsuite>

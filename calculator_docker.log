@@ -1,0 +1,35 @@
+Press Enter key to start the application
+
+
+Calculator-DevOps, Choose to perform operation
+Enter 1 to find Factorial
+Enter 2 to find Square Root
+Enter 3 to find Power
+Enter 4 to find Natural Logarithm
+Enter any other input to Exit
+Enter your choice: 4
+Enter a positive number: 123
+06:52:11.985 [main] INFO  calculator.Calculator - [NATURAL LOG] - 123.0
+06:52:11.993 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 4.812184355372417
+Natural Logarithm of 123.0 is: 4.812184355372417
+
+Calculator-DevOps, Choose to perform operation
+Enter 1 to find Factorial
+Enter 2 to find Square Root
+Enter 3 to find Power
+Enter 4 to find Natural Logarithm
+Enter any other input to Exit
+Enter your choice: 2
+Enter a non-negative number: 89
+06:52:19.552 [main] INFO  calculator.Calculator - [SQ ROOT] - 89.0
+06:52:19.553 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 9.433981132056603
+Square Root of 89.0 is: 9.433981132056603
+
+Calculator-DevOps, Choose to perform operation
+Enter 1 to find Factorial
+Enter 2 to find Square Root
+Enter 3 to find Power
+Enter 4 to find Natural Logarithm
+Enter any other input to Exit
+Enter your choice: 789
+Exiting....
